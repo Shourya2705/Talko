@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "164380686637",
+    "project_id": "talko-5d757",
+    "storage_bucket": "talko-5d757.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164380686637:android:5ebeb72a2141d3829fbba4",
+        "android_client_info": {
+          "package_name": "com.example.talko"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164380686637-n72o9v5n5aien2isoukbt2ms5lpbcip2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJYPdZ4hyUFXFn7JKPKHiT2Wo7wqpdyPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164380686637-n72o9v5n5aien2isoukbt2ms5lpbcip2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
